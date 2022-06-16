@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/inicio"
+        android:icon="@drawable/ic_home"
+        android:title="Inicio"/>
+
+    <item
+        android:id="@+id/bitacora"
+        android:icon="@drawable/ic_bitacora"
+        android:title="Bitacora"/>
+
+    <item
+        android:id="@+id/estudiante"
+        android:icon="@drawable/ic_user"
+        android:title="Estudiante"/>
+
+    <item
+        android:id="@+id/asignatura"
+        android:icon="@drawable/ic_asignatura"
+        android:title="Asignatura"/>
+
+    <item
+        android:id="@+id/sala_computo"
+        android:icon="@drawable/ic_compute"
+        android:title="Sala de Computo"/>
+</menu>
